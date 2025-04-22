@@ -29,7 +29,7 @@ assignees:
 
 ### New Content Checklist
 
-- [ ] New content/page is in an Rmd file with [this kind of format and headers](https://github.com/jhudsl/OTTR_Template_Website/blob/main/editing.Rmd).
+- [ ] New content/page is in an Rmd file with [this kind of format and headers](https://github.com/ottrproject/OTTR_Template_Website/blob/main/editing.Rmd).
 
 - [ ] Website successfully re-renders and any new content files have been added to the `_site.yml` file.
 

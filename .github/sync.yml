@@ -21,7 +21,7 @@ group:
         dest: config_automation.yml
   # Repositories to receive changes
     repos: |
-      jhudsl/ottrproject.org
+      ottrproject/ottrproject.org
       jhudsl/Baltimore_Community_Course
       maculatus/test-ottr-website
       dr-sayyadhury/OTTR_Template_Website_repo
@@ -33,7 +33,7 @@ group:
       jhudsl/ITN_computing_resources
       fhdsl/ITN_course_search
       cansavvy/cansavvy_website
-      fhdsl/metricminer-dashboard
+      ottrproject/metricminer-dashboard
       fhdsl/Intermediate_R
       fhdsl/AnVIL_Poll_2024
       fhdsl/ITN_Workshops_2024
