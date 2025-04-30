@@ -28,7 +28,7 @@ knitr::include_graphics("resources/images/website_setup.png")
 Note that in general, your website will be published to a URL like this:
 
 ```
-https://username.github.io/repository_name/
+{your_username}.github.io/repository_name/
 ```
 If you have multiple websites published underneath your username or organization, this should still publish fine. This website will be a subdirectory that is named whatever you have named this repository.
 
