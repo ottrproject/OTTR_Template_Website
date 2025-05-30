@@ -80,7 +80,7 @@ jobs:
         echo ${{ steps.check-report.outputs.error_num }}
 
       # Commit file
-    - name: Commit tocless bookdown files
+    - name: Commit spell check file
       if: ${{ steps.check-report.outputs.error_num >= 1 }}
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
