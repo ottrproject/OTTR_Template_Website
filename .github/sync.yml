@@ -41,6 +41,10 @@ group:
       fhdsl/nyu2024-galaxy-activity
       fhdsl/OPEN_Survey_2024
       fhdsl/DaSL_Collection
+      fhdsl/Moffitt_ITN_Workshop
+      fhdsl/UMich_ITN_Workshop
+      fhdsl/ITN_Workshops_2025
+      fhdsl/itn-training-metrics
 
 ###ADD NEW REPO HERE following the format above#
 
