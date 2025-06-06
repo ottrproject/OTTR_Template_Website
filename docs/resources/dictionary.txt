@@ -1,6 +1,6 @@
 cheatsheet
 css
-custimization
+customization
 cwrigh
 Dockerfile
 Dockerhub
