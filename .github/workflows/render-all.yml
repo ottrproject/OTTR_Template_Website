@@ -42,7 +42,7 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_PAT }}
-
+    
       - name: Run render
         id: render
         uses: ottrproject/ottr-preview@main
