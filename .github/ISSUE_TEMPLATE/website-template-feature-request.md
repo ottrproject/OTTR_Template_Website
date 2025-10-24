@@ -3,7 +3,9 @@ name: Website Template Feature Request
 about: Suggest an idea for the website templates
 title: ''
 labels: ''
-assignees: cansavvy
+assignees: |
+  kweav
+  carriewright11
 
 ---
 
