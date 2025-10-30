@@ -3,24 +3,18 @@ name: Update your website's info for syncs/OTTR updates
 about: Provide information about your moved/renamed website (which uses the OTTR Website template) so that it can continue to be enrolled in OTTR updates
 title: ''
 labels: ''
-assignees: cansavvy
+assignees: |
+  kweav
+  carriewright11
 
 ---
 
 <!-- Remove headings if they are not applicable to the changes/updates you made for your repo-->
 
-## If the name of your repository was changed ...
+## Please provide the new GitHub link to your repository
 
-### What was the old name?
-<!-- The old/original name of the repo. Ex the name of this repo is OTTR_Template_Website -->
+<!-- The GitHub Link for this repository is https://github.com/ottrproject/OTTR_Template_Website. Please make sure that the link you provide starts with github.com! --> 
 
-### What is the new name?
-<!-- The new/modified name of the repo. Ex the name of this repo is OTTR_Template_Website -->
+## If you can, please provide the old GitHub link before your repository was renamed or moved. 
 
-## If the repository was moved ...
-
-### What was the original username or organization your repository was associated with?
-<!-- The old/original name of the username or organization where the new repository was located . Ex this repository is part of the jhudsl organization. A personal repository would be associated with a username instead of the organization. -->
-
-### What is the new username or organization your repository was associated with?
-<!-- The new/modified name of the username or organization where the new repository is located . Ex this repository is part of the jhudsl organization. A personal repository would be associated with a username instead of the organization. -->
+<!-- This is optional, but would be nice if you could provide it for us --> 
