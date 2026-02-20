@@ -8,10 +8,11 @@ on:
   push:
     branches: [ main, staging ]
     paths:
-      - '*.qmd'
       - '*.Rmd'
       - assets/*
-      - quizzes/*
+      - '*.yml'
+      - 'GA_Script.html'
+      - 'GA_Script.Rhtml'
 
 jobs:
 
