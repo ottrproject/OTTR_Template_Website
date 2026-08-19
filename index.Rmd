@@ -8,6 +8,14 @@ output:
 Banner text!  
 </div>
 
+<p class = "center">
+This text is centered.
+</p>
+
+<button class = "btn">
+Example button
+</button>
+
 ### **About**
 
 This website was created with the OTTR_Template_Website template. This enables simpler creation of websites that have automated checks for broken URLs and spelling errors, as well as automated rendering of all html files. No need to worry about git conflicts for html files!
@@ -29,6 +37,5 @@ We will go through the following:
 5. More information about GitHub Actions (Git Actions tab)
 
 Click on each tab to learn more.
-
 
 
