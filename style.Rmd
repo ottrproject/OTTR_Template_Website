@@ -33,11 +33,13 @@ Next, simply replace the image called `favicon.ico` in the `images` directory wi
 
 To make additional changes to the style, you can modify the `styles.css` file with css code. This [website](https://www.w3schools.com/css/) has great information about css code.
 
-As an example if you wanted to change the color of the blue line to green you could change where it says `lightblue` to `lightgreen` in the `styles.css` file. You can also use a hex color code like those that can be found at this [website](https://htmlcolorcodes.com/), such as `#00FF9E` to get a specific shade. 
+As an example if you wanted to change the color of the blue line to green you could change `--banner-background-color` in the `assets/style_config_default.css` file from `lightblue` to `lightgreen`. You can also use a hex color code like those that can be found at this [website](https://htmlcolorcodes.com/), such as `#00FF9E` to get a specific shade.
+
+The template also includes examples for centered text and a button on the home page. You can change the button colors with `--button-background-color` and `--button-hover-background-color` in `assets/style_config_default.css`.
 
 
-```{r, fig.align='center', fig.alt= "Change color of line", echo = FALSE, out.width="80%"}
-knitr::include_graphics("resources/images/blue.png")
+```{r, fig.align='center', fig.alt= "Change color of banner", echo = FALSE, out.width="80%"}
+knitr::include_graphics("resources/images/banner_color.png")
 ```
 
 Note that if you change the css file with a new element that is not already defined like `body` then you would need to do it as done with the `banner` element. This was then added to the index.Rmd file by using:
@@ -49,4 +51,3 @@ Banner text!
 ```
 
 Also checkout the [R Markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) for more customization of the pages.
-
