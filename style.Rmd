@@ -38,8 +38,8 @@ As an example if you wanted to change the color of the blue line to green you co
 The template also includes examples for centered text and a button on the home page. You can change the button colors with `--button-background-color` and `--button-hover-background-color` in `assets/style_config_default.css`.
 
 
-```{r, fig.align='center', fig.alt= "Change color of line", echo = FALSE, out.width="80%"}
-knitr::include_graphics("resources/images/blue.png")
+```{r, fig.align='center', fig.alt= "Change color of banner", echo = FALSE, out.width="80%"}
+knitr::include_graphics("resources/images/banner_color.png")
 ```
 
 Note that if you change the css file with a new element that is not already defined like `body` then you would need to do it as done with the `banner` element. This was then added to the index.Rmd file by using:
