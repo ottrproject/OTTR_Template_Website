@@ -7,7 +7,7 @@ The purpose of this template is to make maintaining a website on GitHub _less pa
 _This template helps you_:
 
 - Write and edit website pages as [R Markdown files](https://rmarkdown.rstudio.com/), then render them as a static HTML site.
-- Publish the rendered website from the repository's `docs/` directory, including through [GitHub Pages](https://pages.github.com/).
+- Publish the rendered website from the repository's `docs/` directory, through [GitHub Pages](https://pages.github.com/).
 - Use [GitHub Actions](https://www.ottrproject.org/customize-robots.html) to automate repetitive tasks after pull requests, including:
   - spelling checks with a project dictionary;
   - broken-link checks;
