@@ -40,6 +40,9 @@ _This template helps you_:
 - Use `resources/dictionary.txt` to add valid project-specific words that should pass spelling checks.
 - See the repository's [license](LICENSE) for usage terms.
 - If you encounter a problem or have an idea for improving this template, [open an issue](https://github.com/ottrproject/OTTR_Template_Website/issues/new/choose).
+t
+## Cheatsheet
+Refer to our [cheatsheet](https://www.ottrproject.org/cheatsheets/ottr_website.html) for a quick reference on building your website with OTTR! 
 
 ## Contributing
 
